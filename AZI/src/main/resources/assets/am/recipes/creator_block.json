@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients":
+    [
+
+    {
+      "item": "am:creator_a"
+    },
+
+    {
+      "item": "am:creator_z"
+    }
+
+    ],
+
+    "result":
+    {
+        "item": "am:creator_block",
+        "count": 1
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

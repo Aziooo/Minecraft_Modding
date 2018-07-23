@@ -1,0 +1,7 @@
+//Items
+am.creator_a.name=A 
+am.creator_a.name=Z
+
+
+//Blocks
+tile.ruby_block.name=Creator Block

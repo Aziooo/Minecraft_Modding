@@ -1,0 +1,16 @@
+[
+{
+  "modid": "am",
+  "name": "AZI",
+  "description": "Azi's 1st mod",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Azio"],
+  "credits": "Direwolf20",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
